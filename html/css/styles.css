@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  color: #333;
+}
+
+.list-group-item {
+  background: #e2e2e2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.list-group-item:hover {
+  background: #d1d1d1;
+  text-decoration: underline;
+}
